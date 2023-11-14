@@ -12,6 +12,6 @@ print(type(todo_list))
 print(type(todo_list[0]))
 
 
-val = input("Get e number: ")
-print("the value is: ", val)
+#val = input("Get e number: ")
+#print("the value is: ", val)
 

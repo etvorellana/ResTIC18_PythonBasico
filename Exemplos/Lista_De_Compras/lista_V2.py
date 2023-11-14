@@ -14,7 +14,9 @@ while True:
         quantidade = int(input('Digite a quantidade: '))
         while True:
             for i in range(len(quant)):
-                print(f'{i} - {quant[i]}')
+                print('{} - {}'.format(i, quant[i]))
+                #print(i, '-', quant[i])
+                #print(f'{i} - {quant[i]}')
             unidade = int(input('Digite a unidade: '))
             if unidade >= len(quant) or unidade < 0:
                 print('Unidade inválida')
