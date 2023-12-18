@@ -1,4 +1,5 @@
 from pacote import Ponto
+#from classes import Ponto
 #from pacote.classes import Ponto
 
 def ordenaPontos(pontos):
