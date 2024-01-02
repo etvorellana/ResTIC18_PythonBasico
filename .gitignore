@@ -163,3 +163,10 @@ cython_debug/
 Notebook/.DS_Store
 extensions.json
 
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+Exemplos/lista.txt
+Exemplos/virtual/.virtual/*
+Notebooks/Notas Para um Curso de Introdução a POO com Python.ipynb
+PDFs/The Python Mega Course, Cheat Sheets.pdf
