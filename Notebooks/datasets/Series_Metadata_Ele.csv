@@ -1,0 +1,23 @@
+Country Name,Country Code,Series Name,Series Code,2010 [YR2010],2020 [YR2020]
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.82,100
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.6,99.7027130126953
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.5258941650391,100
+Ecuador,ECU,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.462142,98.85
+Colombia,COL,Access to electricity (% of population),EG.ELC.ACCS.ZS,96.788995,99.7217559814453
+Bolivia,BOL,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.9524154663086,97.2218170166016
+Peru,PER,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.123061,96.2
+Paraguay,PRY,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.43086,99.7
+Uruguay,URY,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.3,100
+,,,,,
+,,,,,
+,,,,,
+Data from database: World Development Indicators,,,,,
+Last Updated: 12/18/2023,,,,,
+Code,License Type,Indicator Name,Long definition,Source,Topic,Periodicity,Aggregation method,Statistical concept and methodology,Development relevance,License URL
+EG.ELC.ACCS.ZS,CC BY-4.0,Access to electricity (% of population),"Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.","IEA, IRENA, UNSD, World Bank, WHO. 2023. Tracking SDG 7: The Energy Progress Report. World Bank, Washington DC. © World Bank. License: Creative Commons Attribution—NonCommercial 3.0 IGO (CC BY-NC 3.0 IGO).",Environment: Energy production & use,Annual,Weighted average,"The World Bank’s Global Electrification Database (GED) compiles nationally representative household survey data, and occasionally census data, from sources going back as far as 1990. The database also incorporates data from the Socio-Economic Database for Latin America and the Caribbean (SEDLAC), Middle East and North Africa Poverty Database (MNAPOV) and the Europe and Central Asia Poverty Database (ECAPOV), which are based on similar surveys. At the time of this analysis, the GED contained 1,375 surveys for 149 countries in 1990-2021.","Maintaining reliable and secure electricity services while seeking to rapidly decarbonize power systems is a key challenge for countries throughout the world. More and more countries are becoming increasing dependent on reliable and secure electricity supplies to underpin economic growth and community prosperity. This reliance is set to grow as more efficient and less carbon intensive forms of power are developed and deployed to help decarbonize economies.
+
+Energy is necessary for creating the conditions for economic growth. It is impossible to operate a factory, run a shop, grow crops or deliver goods to consumers without using some form of energy. Access to electricity is particularly crucial to human development as electricity is, in practice, indispensable for certain basic activities, such as lighting, refrigeration and the running of household appliances, and cannot easily be replaced by other forms of energy. Individuals' access to electricity is one of the most clear and un-distorted indication of a country's energy poverty status.
+
+Electricity access is increasingly at the forefront of governments' preoccupations, especially in the developing countries. As a consequence, a lot of rural electrification programs and national electrification agencies have been created in these countries to monitor more accurately the needs and the status of rural development and electrification.
+
+Use of energy is important in improving people's standard of living. But electricity generation also can damage the environment. Whether such damage occurs depends largely on how electricity is generated. For example, burning coal releases twice as much carbon dioxide - a major contributor to global warming - as does burning an equivalent amount of natural gas.",https://datacatalog.worldbank.org/public-licenses#cc-by

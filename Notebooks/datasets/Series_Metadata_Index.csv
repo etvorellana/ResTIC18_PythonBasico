@@ -1,0 +1,17 @@
+Series Name,Series Code,Country Name,Country Code,2010 [YR2010],2014 [YR2014],2018 [YR2018]
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Argentina,ARG,0.588557064533234,..,0.61736673116684
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Bolivia,BOL,..,..,..
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Brazil,BRA,0.532952487468719,..,0.545723736286163
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Chile,CHL,0.62635999917984,..,0.665265142917633
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Colombia,COL,0.580249488353729,..,0.598653852939606
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Ecuador,ECU,0.525806725025177,..,0.596219539642334
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Uruguay,URY,0.590905249118805,..,0.602367758750916
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Peru,PER,0.545357227325439,..,0.594615280628204
+Human Capital Index (HCI) (scale 0-1),HD.HCI.OVRL,Paraguay,PRY,0.510600686073303,..,0.527505993843079
+,,,,,,
+,,,,,,
+,,,,,,
+Data from database: Human Capital Index,,,,,,
+Last Updated: 09/21/2020,,,,,,
+Code,License Type,Indicator Name,Long definition,Source,License URL
+HD.HCI.OVRL,CC BY-4.0,Human Capital Index (HCI) (scale 0-1),The HCI calculates the contributions of health and education to worker productivity. The final index score ranges from zero to one and measures the productivity as a future worker of child born today relative to the benchmark of full health and complete education.,World Bank staff calculations based on the methodology described in World Bank (2018). https://openknowledge.worldbank.org/handle/10986/30498.,https://datacatalog.worldbank.org/public-licenses#cc-by
