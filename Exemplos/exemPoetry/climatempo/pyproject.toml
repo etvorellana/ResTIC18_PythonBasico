@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "climatempo"
+version = "1.0.0"
+description = "Pacote para coleta de dados do Clima"
+license = "MIT"
+authors = ["etvorellana <evalero@uesc.br>"]
+readme = ["README.md"]
+
+[tool.poetry.scripts]
+climatempo =  "climatempo.__main__:main" 
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.3"
+pandas = "^2.1.4"
+seaborn = "^0.13.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
