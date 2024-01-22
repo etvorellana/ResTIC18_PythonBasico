@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "minhacasa"
+version = "0.1.0"
+description = "Projeto de automação residencial"
+license = "MIT"
+authors = ["etvorellana <evalero@uesc.br>"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+minhacasa = "minhacasa/__main__:main"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.26.3"
+pandas = "^2.1.4"
+seaborn = "^0.13.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

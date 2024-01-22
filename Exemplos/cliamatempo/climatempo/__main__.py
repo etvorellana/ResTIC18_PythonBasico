@@ -1,7 +1,7 @@
-import random
+import meuRandom
 import sys
 
-x = random.random()
+x = meuRandom.meuRandom()
 print(type(x))
 
 for pathItem in sys.path:
