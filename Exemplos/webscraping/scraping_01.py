@@ -6,4 +6,8 @@ response = requests.get(url)
 search = BeautifulSoup(response.text, 'html.parser')
 print(search.prettify())
 
-
+search = search.find('div', attrs={'class':'g'})
+if search:
+    print(search.prettify())
+else: 
+    print('Nada encontrado')
